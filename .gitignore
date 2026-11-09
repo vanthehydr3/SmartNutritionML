@@ -1,9 +1,11 @@
 .venv/
+dataset/
+my_photos/
+yolo_dataset/
+yolo_dataset_balanced/
+yolo_dataset_12/
+runs/
+*.pth
+*.pt
 __pycache__/
 *.pyc
-dataset/
-*.pth
-my_photos/
-runs/
-yolo_dataset/
-yolo_visualization.jpg
