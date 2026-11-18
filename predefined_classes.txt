@@ -1,0 +1,12 @@
+Apple
+Banana
+Orange
+Tomato
+Carrot
+Broccoli
+Bell pepper
+Cucumber
+Potato
+Milk
+Cheese
+Lemon

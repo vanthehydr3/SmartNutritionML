@@ -1,11 +1,28 @@
+
+# Python environment
 .venv/
-dataset/
-my_photos/
+__pycache__/
+*.pyc
+
+# YOLO datasets
 yolo_dataset/
 yolo_dataset_balanced/
 yolo_dataset_12/
+yolo_dataset_12_clean/
+yolo_dataset_12_fridge/
+yolo_dataset_12_incomplete/
+yolo_dataset_12_clean_backup/
+
+# Images and annotations
+fridge_training/
+yolo12_visualizations/
+my_photos/
+
+# Training results and model weights
 runs/
-*.pth
 *.pt
-__pycache__/
-*.pyc
+*.pth
+
+# FiftyOne data
+fiftyone/
+.DS_Store
